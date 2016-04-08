@@ -28,7 +28,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
-    //test
+    //使用sourceTree的步骤的时候进行测试
     [self initialData];
     [self initialScrollView];
     [self initialImageView];
