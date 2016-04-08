@@ -28,6 +28,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     
+    //test
     [self initialData];
     [self initialScrollView];
     [self initialImageView];
